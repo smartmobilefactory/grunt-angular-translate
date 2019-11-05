@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular-translate/grunt-angular-translate.git"
+    "url": "git://github.com/smartmobilefactory/grunt-angular-translate.git"
   },
   "keywords": [
     "AngularJS",
@@ -42,12 +42,12 @@
   ],
   "author": "Benjamin Longearet",
   "bugs": {
-    "url": "https://github.com/angular-translate/grunt-angular-translate/issues"
+    "url": "https://github.com/smartmobilefactory/grunt-angular-translate/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/angular-translate/grunt-angular-translate/blob/master/LICENSEgit "
+      "url": "https://github.com/smartmobilefactory/grunt-angular-translate/blob/master/LICENSEgit "
     }
   ],
   "gitHead": "dd655f85e3b4c59b7f3ac5ebf3f1ccad69876bb8",
@@ -55,7 +55,7 @@
   "dependencies": {
     "flat": "^1.2.0",
     "json-stable-stringify": "^1.0.0",
-    "lodash": "~2.4.1",
+    "lodash": "^4.17.15",
     "pofile": "^0.2.12"
   }
 }
